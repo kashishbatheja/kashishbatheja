@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**kashishbatheja/kashishbatheja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Kashish 👋  
+BSc Mathematics student exploring AI automation, workflow systems, data science, and creative tech.
+- Python
+- n8n
+- Git & GitHub
+- Workflow Automation
+- APIs
+- Basic Data Science
+- Prompt Engineering
+## Projects
+- AI Email Summarizer using n8n + OpenAI
+- Book Recommendation Data Science Project
+- KashishVerse poetry website
+Currently learning:
+- APIs
+- AI agents
+- JavaScript
+- Automation systems
