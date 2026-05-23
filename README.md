@@ -11,7 +11,7 @@ BSc Mathematics student exploring AI automation, workflow systems, data science,
 - AI Email Summarizer using n8n + OpenAI
 - Book Recommendation Data Science Project
 - KashishVerse poetry website
-Currently learning:
+## Currently learning
 - APIs
 - AI agents
 - JavaScript
