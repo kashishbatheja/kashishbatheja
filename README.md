@@ -1,4 +1,6 @@
 Hi, I'm Kashish 👋  
+kashishvatheja21@gmail.com
+([url](https://www.linkedin.com/in/kashish-batheja-21052007m/))
 BSc Mathematics student exploring AI automation, workflow systems, data science, and creative tech.
 - Python
 - n8n
